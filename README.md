@@ -1,16 +1,19 @@
-### Hi there 👋
+# 💫 About Me:
+🚀 Passionate Software Engineer<br><br>A highly motivated and results-oriented software engineer, I hold a Bachelor's degree in Software Engineering from Bahria University. With over 1.5 years of professional experience, I've honed my skills as a Backend Developer at Tapmad Tv/Pi Pakistan, specializing in PHP, Laravel, JavaScript, Node.js, MySQL, and MongoDB. My work focuses on crafting robust RESTful APIs and optimizing database performance through efficient code and MVC architecture. Collaborating on various projects, I've demonstrated proficiency in bug fixing, implementing functionalities, and leveraging frameworks like Laravel.<br><br>🔧 Versatile Technical Expertise<br><br>My expertise extends beyond backend development to encompass a diverse range of technologies and frameworks. At Teciz Everything in Karachi, I've contributed to projects primarily in the e-commerce domain, utilizing Node.js, Express, Mongoose, MySQL, and Postman. My skill set also includes integrating third-party services like Twilio and SendGrid for enhanced user authentication and email functionalities. Through internships at NRDI (Naval Research & Development Institute), I've delved into research on emerging technologies, enhancing my proficiency in Python and problem-solving abilities.<br><br>🌟 Beyond the Code<br><br>Beyond technical prowess, I'm committed to continuous learning and personal development. Fluent in Urdu and English, I actively engage with seniors to improve my software development skills. Outside of work, I'm passionate about outdoor activities, particularly trekking in mountains, and enjoy leisurely cricket matches. My diverse experiences, combined with a proactive approach to learning, position me to contribute effectively to innovative software engineering projects and thrive in dynamic team environments.
 
-<!--
-**ubaid123-eng/ubaid123-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obaid-ur-rehman-52a733209/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ubaid123-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ubaid123-eng&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid123-eng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ubaid123-eng&icon=0&color=0)](https://visitcount.itsvg.in)
